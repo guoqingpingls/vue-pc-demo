@@ -42,3 +42,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 09.修改config/index.js文件(具体修改查看git上相应的文件)
 10.执行npm run dev
 注：由于json-server的post请求数据方法稍有问题，暂时全部使用get方式代替
+测试
